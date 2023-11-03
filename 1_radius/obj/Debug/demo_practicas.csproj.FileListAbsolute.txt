@@ -1,0 +1,10 @@
+C:\Users\Juan\OneDrive\Escritorio\University\2023-2024\1º\English_SWD\demo_practicas\bin\Debug\demo_practicas.exe.config
+C:\Users\Juan\OneDrive\Escritorio\University\2023-2024\1º\English_SWD\demo_practicas\bin\Debug\demo_practicas.exe
+C:\Users\Juan\OneDrive\Escritorio\University\2023-2024\1º\English_SWD\demo_practicas\bin\Debug\demo_practicas.pdb
+C:\Users\Juan\OneDrive\Escritorio\University\2023-2024\1º\English_SWD\demo_practicas\obj\Debug\demo_practicas.csproj.AssemblyReference.cache
+C:\Users\Juan\OneDrive\Escritorio\University\2023-2024\1º\English_SWD\demo_practicas\obj\Debug\demo_practicas.DEMO.resources
+C:\Users\Juan\OneDrive\Escritorio\University\2023-2024\1º\English_SWD\demo_practicas\obj\Debug\demo_practicas.Properties.Resources.resources
+C:\Users\Juan\OneDrive\Escritorio\University\2023-2024\1º\English_SWD\demo_practicas\obj\Debug\demo_practicas.csproj.GenerateResource.cache
+C:\Users\Juan\OneDrive\Escritorio\University\2023-2024\1º\English_SWD\demo_practicas\obj\Debug\demo_practicas.csproj.CoreCompileInputs.cache
+C:\Users\Juan\OneDrive\Escritorio\University\2023-2024\1º\English_SWD\demo_practicas\obj\Debug\demo_practicas.exe
+C:\Users\Juan\OneDrive\Escritorio\University\2023-2024\1º\English_SWD\demo_practicas\obj\Debug\demo_practicas.pdb

@@ -1,0 +1,10 @@
+C:\Users\Juan\OneDrive\Escritorio\University\2023-2024\1º\English_SWD\Practicas\4_Invoice_info\bin\Debug\4_Invoice_info.exe.config
+C:\Users\Juan\OneDrive\Escritorio\University\2023-2024\1º\English_SWD\Practicas\4_Invoice_info\bin\Debug\4_Invoice_info.exe
+C:\Users\Juan\OneDrive\Escritorio\University\2023-2024\1º\English_SWD\Practicas\4_Invoice_info\bin\Debug\4_Invoice_info.pdb
+C:\Users\Juan\OneDrive\Escritorio\University\2023-2024\1º\English_SWD\Practicas\4_Invoice_info\obj\Debug\4_Invoice_info.csproj.AssemblyReference.cache
+C:\Users\Juan\OneDrive\Escritorio\University\2023-2024\1º\English_SWD\Practicas\4_Invoice_info\obj\Debug\_4_Invoice_info.Properties.Resources.resources
+C:\Users\Juan\OneDrive\Escritorio\University\2023-2024\1º\English_SWD\Practicas\4_Invoice_info\obj\Debug\4_Invoice_info.csproj.GenerateResource.cache
+C:\Users\Juan\OneDrive\Escritorio\University\2023-2024\1º\English_SWD\Practicas\4_Invoice_info\obj\Debug\4_Invoice_info.csproj.CoreCompileInputs.cache
+C:\Users\Juan\OneDrive\Escritorio\University\2023-2024\1º\English_SWD\Practicas\4_Invoice_info\obj\Debug\4_Invoice_info.exe
+C:\Users\Juan\OneDrive\Escritorio\University\2023-2024\1º\English_SWD\Practicas\4_Invoice_info\obj\Debug\4_Invoice_info.pdb
+C:\Users\Juan\OneDrive\Escritorio\University\2023-2024\1º\English_SWD\Practicas\4_Invoice_info\obj\Debug\_4_Invoice_info.Form2.resources

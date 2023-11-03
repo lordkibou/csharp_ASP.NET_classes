@@ -1,0 +1,10 @@
+C:\Users\Juan\OneDrive\Escritorio\University\2023-2024\1º\English_SWD\Practicas\Practica3\bin\Debug\Practica3.exe.config
+C:\Users\Juan\OneDrive\Escritorio\University\2023-2024\1º\English_SWD\Practicas\Practica3\bin\Debug\Practica3.exe
+C:\Users\Juan\OneDrive\Escritorio\University\2023-2024\1º\English_SWD\Practicas\Practica3\bin\Debug\Practica3.pdb
+C:\Users\Juan\OneDrive\Escritorio\University\2023-2024\1º\English_SWD\Practicas\Practica3\obj\Debug\Practica3.csproj.AssemblyReference.cache
+C:\Users\Juan\OneDrive\Escritorio\University\2023-2024\1º\English_SWD\Practicas\Practica3\obj\Debug\Practica3.Form1.resources
+C:\Users\Juan\OneDrive\Escritorio\University\2023-2024\1º\English_SWD\Practicas\Practica3\obj\Debug\Practica3.Properties.Resources.resources
+C:\Users\Juan\OneDrive\Escritorio\University\2023-2024\1º\English_SWD\Practicas\Practica3\obj\Debug\Practica3.csproj.GenerateResource.cache
+C:\Users\Juan\OneDrive\Escritorio\University\2023-2024\1º\English_SWD\Practicas\Practica3\obj\Debug\Practica3.csproj.CoreCompileInputs.cache
+C:\Users\Juan\OneDrive\Escritorio\University\2023-2024\1º\English_SWD\Practicas\Practica3\obj\Debug\Practica3.exe
+C:\Users\Juan\OneDrive\Escritorio\University\2023-2024\1º\English_SWD\Practicas\Practica3\obj\Debug\Practica3.pdb

@@ -1,0 +1,10 @@
+C:\Users\Juan\OneDrive\Escritorio\University\2023-2024\1º\English_SWD\Practicas\5_roll_dice\bin\Debug\5_roll_dice.exe.config
+C:\Users\Juan\OneDrive\Escritorio\University\2023-2024\1º\English_SWD\Practicas\5_roll_dice\bin\Debug\5_roll_dice.exe
+C:\Users\Juan\OneDrive\Escritorio\University\2023-2024\1º\English_SWD\Practicas\5_roll_dice\bin\Debug\5_roll_dice.pdb
+C:\Users\Juan\OneDrive\Escritorio\University\2023-2024\1º\English_SWD\Practicas\5_roll_dice\obj\Debug\5_roll_dice.csproj.AssemblyReference.cache
+C:\Users\Juan\OneDrive\Escritorio\University\2023-2024\1º\English_SWD\Practicas\5_roll_dice\obj\Debug\_5_roll_dice.Form1.resources
+C:\Users\Juan\OneDrive\Escritorio\University\2023-2024\1º\English_SWD\Practicas\5_roll_dice\obj\Debug\_5_roll_dice.Properties.Resources.resources
+C:\Users\Juan\OneDrive\Escritorio\University\2023-2024\1º\English_SWD\Practicas\5_roll_dice\obj\Debug\5_roll_dice.csproj.GenerateResource.cache
+C:\Users\Juan\OneDrive\Escritorio\University\2023-2024\1º\English_SWD\Practicas\5_roll_dice\obj\Debug\5_roll_dice.csproj.CoreCompileInputs.cache
+C:\Users\Juan\OneDrive\Escritorio\University\2023-2024\1º\English_SWD\Practicas\5_roll_dice\obj\Debug\5_roll_dice.exe
+C:\Users\Juan\OneDrive\Escritorio\University\2023-2024\1º\English_SWD\Practicas\5_roll_dice\obj\Debug\5_roll_dice.pdb

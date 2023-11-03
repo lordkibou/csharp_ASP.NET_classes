@@ -1,0 +1,10 @@
+C:\Users\Juan\OneDrive\Escritorio\University\2023-2024\1º\English_SWD\Practicas\DB_and_Web\session_4\bin\Debug\session_4.exe.config
+C:\Users\Juan\OneDrive\Escritorio\University\2023-2024\1º\English_SWD\Practicas\DB_and_Web\session_4\bin\Debug\session_4.exe
+C:\Users\Juan\OneDrive\Escritorio\University\2023-2024\1º\English_SWD\Practicas\DB_and_Web\session_4\bin\Debug\session_4.pdb
+C:\Users\Juan\OneDrive\Escritorio\University\2023-2024\1º\English_SWD\Practicas\DB_and_Web\session_4\obj\Debug\session_4.csproj.AssemblyReference.cache
+C:\Users\Juan\OneDrive\Escritorio\University\2023-2024\1º\English_SWD\Practicas\DB_and_Web\session_4\obj\Debug\session_4.Properties.Resources.resources
+C:\Users\Juan\OneDrive\Escritorio\University\2023-2024\1º\English_SWD\Practicas\DB_and_Web\session_4\obj\Debug\session_4.csproj.GenerateResource.cache
+C:\Users\Juan\OneDrive\Escritorio\University\2023-2024\1º\English_SWD\Practicas\DB_and_Web\session_4\obj\Debug\session_4.csproj.CoreCompileInputs.cache
+C:\Users\Juan\OneDrive\Escritorio\University\2023-2024\1º\English_SWD\Practicas\DB_and_Web\session_4\obj\Debug\session_4.exe
+C:\Users\Juan\OneDrive\Escritorio\University\2023-2024\1º\English_SWD\Practicas\DB_and_Web\session_4\obj\Debug\session_4.pdb
+C:\Users\Juan\OneDrive\Escritorio\University\2023-2024\1º\English_SWD\Practicas\DB_and_Web\session_4\obj\Debug\SQLITE_Furniture.Form1.resources
